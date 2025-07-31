@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/YuriBrizolara/projeto_reginaldo/issues"
   },
-  "homepage": "https://github.com/YuriBrizolara/projeto_reginaldo#readme"
+  "homepage": "https://github.com/YuriBrizolara/projeto_reginaldo#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.1",
+    "express": "^5.1.0"
+  }
 }
